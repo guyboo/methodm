@@ -5,7 +5,7 @@
   --light:#F7F7F7;--charcoal:#232323;--border:#E0E0E0;--border2:#EBEBEB;
   --font-head:'Space Grotesk',sans-serif;
   --font-body:'DM Sans',sans-serif;
-  --font-display:'Dancing Script',cursive;
+  --font-display:'Whisper',cursive;
 }
 html{scroll-behavior:smooth}
 body{font-family:var(--font-body);color:var(--dark);background:var(--white);line-height:1.6;-webkit-font-smoothing:antialiased}
